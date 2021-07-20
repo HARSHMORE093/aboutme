@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="harsh">Harsh</string>
+    <string name="bio">Hi Anne,<br/>
+ <br/>I miss you so much! Can’t wait to see you on Friday!! We haven’t hung out in so long! I miss
+<br/> my bestie! Maybe we can go to the movies or dinner or just chill and watch TV and catch
+<br/>up…idc, whichever you want.I was unable to attend class today due to a doctor’s appointment. When you have a moment,
+<br/>could please let me know what I missed and what homework I need to have completed for
+Friday?
+ <br/>Love ya,<br/>
+        Jules<br/></string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
